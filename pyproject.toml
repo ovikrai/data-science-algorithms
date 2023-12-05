@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Data Science Algorithms"
+version = "0.0.1"
+authors = [
+  { name="Carlos Oviedo", email="ovicorps@gmail.com" },
+]
+description = "Data Science Studies"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Propietary :: EULA",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = ""
+"Bug Tracker" = ""
+
